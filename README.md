@@ -1,20 +1,13 @@
 React CRUD Operations using Ant design and React Hooks.
 
-Created 
+Created:- <br> Users can create new data </br>
 
-![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/save.PNG?raw=true)
+Read:- <br> Users can read the data in a tabular form </br>
 
-Read
+Update:- <br> Users can update the data in real time </br>
 
-![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/list.PNG?raw=true)
+Delete:- <br> Users can delete the data in real time </br>
 
-Update 
-
-![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/modify.PNG?raw=true)
-
-Delete 
-
-![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/delete.PNG?raw=true)
 
 Install node modules
 
